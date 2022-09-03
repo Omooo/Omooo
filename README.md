@@ -1,5 +1,8 @@
 <div style="background: white ">
 <!-- top left -->
+<p align="center">
+    <img src="https://s2.loli.net/2022/09/04/WoScw785rhd4gUt.png">
+</p>    
 <div>
     <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/> 
     <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60" align="right"/> 
