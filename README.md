@@ -11,6 +11,7 @@
 </p>
 
 <p align="center">
+   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
   <a href="https://github.com/Omooo/Android-Notes">
     <img src="https://img.shields.io/badge/🔥%20Android-Notes-brightness.svg"
   </a>  
